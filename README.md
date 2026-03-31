@@ -2,7 +2,7 @@
 # Hi, I'm Carlos!
 
 * I'm a frontend developer from Talca, Chile.
-* Tech Stack: (`.py`), (`.js`), (`.css`), (`.ts`), (`.jsx`)
+* Tech Stack: `.py`, `.js`, `.css`, `.ts`, `.jsx`
 
 # GitHub Stats
 
