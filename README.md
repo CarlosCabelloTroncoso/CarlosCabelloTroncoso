@@ -16,12 +16,16 @@
 
 <div align="center">
 
-```js
-const carlos = {
-  stack : [ "Python", "JavaScript", "TypeScript", "React", "CSS", "HTML" ],
-  focus : "Frontend Development",
-  base  : "Talca, Chile 🇨🇱"
-}
+```ts
+// whoami
+
+const carlos: Developer = {
+  role       : "Frontend Developer",
+  university : "ECI UCM",
+  location   : "Talca, Chile 🇨🇱",
+  stack      : ["Python", "JavaScript", "TypeScript", "React", "HTML", "CSS"],
+  currently  : "Building clean, intentional UI",
+};
 ```
 
 </div>
@@ -32,7 +36,14 @@ const carlos = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,git,vscode&theme=dark&perline=8"/>
+![Python](https://img.shields.io/badge/Python-Fira%20Code-cc99ff?style=flat-square&logo=python&logoColor=white&labelColor=0a0010&color=6600cc)
+![JavaScript](https://img.shields.io/badge/JavaScript-Fira%20Code-cc99ff?style=flat-square&logo=javascript&logoColor=white&labelColor=0a0010&color=6600cc)
+![TypeScript](https://img.shields.io/badge/TypeScript-Fira%20Code-cc99ff?style=flat-square&logo=typescript&logoColor=white&labelColor=0a0010&color=6600cc)
+![React](https://img.shields.io/badge/React-Fira%20Code-cc99ff?style=flat-square&logo=react&logoColor=white&labelColor=0a0010&color=6600cc)
+![HTML](https://img.shields.io/badge/HTML5-Fira%20Code-cc99ff?style=flat-square&logo=html5&logoColor=white&labelColor=0a0010&color=6600cc)
+![CSS](https://img.shields.io/badge/CSS3-Fira%20Code-cc99ff?style=flat-square&logo=css3&logoColor=white&labelColor=0a0010&color=6600cc)
+![Git](https://img.shields.io/badge/Git-Fira%20Code-cc99ff?style=flat-square&logo=git&logoColor=white&labelColor=0a0010&color=6600cc)
+![VSCode](https://img.shields.io/badge/VSCode-Fira%20Code-cc99ff?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0a0010&color=6600cc)
 
 </div>
 
@@ -43,7 +54,9 @@ const carlos = {
 <br/>
 
 <div align="center">
+
 <img src="https://streak-stats.demolab.com?user=CarlosCabelloTroncoso&hide_border=true&background=0a0010&ring=9933ff&fire=cc44ff&currStreakLabel=9933ff&sideLabels=ddbbff&dates=7a5fa0&stroke=6600cc&font=Fira%20Code" width="55%"/>
+
 </div>
 
 <br/>
