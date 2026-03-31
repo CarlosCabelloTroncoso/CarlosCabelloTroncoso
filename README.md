@@ -8,8 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=9933ff&center=true&vCenter=true&width=700&height=40&lines=Frontend+Developer;%3CFrontend+Developer+%2F%3E;Frontend_Developer();%7B+Frontend+Developer+%7D;%2F%2F+Frontend+Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=4000&pause=2000&color=7a5fa0&center=true&vCenter=true&width=500&height=30&lines=_%20呪術師_%20%7C%20Talca%2C%20Chile%20%F0%9F%87%A8%F0%9F%87%B1%20%7C%20ECI+UCM" />
-
 </div>
 
 <br/>
