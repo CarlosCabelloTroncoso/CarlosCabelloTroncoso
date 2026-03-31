@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**CarlosCabelloTroncoso/CarlosCabelloTroncoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Carlos!
 
-Here are some ideas to get you started:
+* I'm a frontend developer from Talca, Chile.
+* Tech Stack: (`.py`), (`.js`), (`.css`), (`.ts`), (`.jsx`)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosCabelloTroncoso&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCabelloTroncoso&layout=compact&theme=radical)
+
+
+
