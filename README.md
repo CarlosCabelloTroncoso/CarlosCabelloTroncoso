@@ -8,6 +8,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosCabelloTroncoso&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarlosCabelloTroncoso&layout=compact&theme=tokyonight)
