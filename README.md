@@ -1,9 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0010,50:1a0030,100:6600cc&height=220&section=header&text=Carlos%20Cabello&fontSize=55&fontColor=cc99ff&animation=fadeIn&fontAlignY=45&desc=呪術師%20·%20Frontend%20Developer%20·%20Talca%2C%20Chile&descAlignY=68&descSize=15&descColor=7a5fa0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0010,50:1a0030,100:6600cc&height=160&section=header&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=16&duration=4000&pause=1500&color=9933FF&center=true&vCenter=true&width=500&lines=Domain+Expansion+%3A%3A+Frontend+Unlimited;ECI+UCM+·+Talca%2C+Chile+🇨🇱;Building+clean+UI+with+cursed+energy" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2500&pause=800&color=cc99ff&center=true&vCenter=true&multiline=false&width=700&height=80&lines=Carlos+Cabello;%3CCarlos+Cabello+%2F%3E;Carlos_Cabello();%7B+Carlos+Cabello+%7D;%2F%2F+Carlos+Cabello" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1500&color=7a5fa0&center=true&vCenter=true&width=500&lines=_%20呪術師_%20%7C%20Frontend+Developer%20%7C%20Talca%2C+Chile+%F0%9F%87%A8%F0%9F%87%B1;Domain+Expansion+%3A%3A+Frontend+Unlimited;const+dev+%3D+new+CarlosCabello()%3B" />
+
 </div>
 
 <br/>
@@ -12,13 +18,27 @@
 
 <div align="center">
 
-`Python` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `HTML`
+```js
+const carlos = {
+  stack : [ "Python", "JavaScript", "TypeScript", "React", "CSS", "HTML" ],
+  focus : "Frontend Development",
+  base  : "Talca, Chile 🇨🇱"
+}
+```
+
+</div>
+
+---
 
 <br/>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,git,vscode&theme=dark&perline=8"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -33,7 +53,7 @@
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=CarlosCabelloTroncoso&hide_border=true&background=0a0010&ring=9933ff&fire=cc44ff&currStreakLabel=9933ff&sideLabels=ddbbff&dates=7a5fa0&stroke=6600cc" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=CarlosCabelloTroncoso&hide_border=true&background=0a0010&ring=9933ff&fire=cc44ff&currStreakLabel=9933ff&sideLabels=ddbbff&dates=7a5fa0&stroke=6600cc&font=Fira%20Code" width="55%"/>
 </div>
 
 <br/>
@@ -58,4 +78,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600cc,50:1a0030,100:0a0010&height=120&section=footer&fontColor=9966cc&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600cc,50:1a0030,100:0a0010&height=120&section=footer&animation=twinkling" width="100%"/>
