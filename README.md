@@ -61,7 +61,7 @@ Building clean, intentional UI — one component at a time.
 
 [![GitHub](https://img.shields.io/badge/GitHub-9933ff?style=flat-square&logo=github&logoColor=white&labelColor=0a0010)](https://github.com/CarlosCabelloTroncoso)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6600cc?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0010)](https://linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6600cc?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0010)](https://www.linkedin.com/in/carlos-ignacio-cabello-troncoso-a94119276/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-cc44ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0010)](mailto:ignaciocarlos016@gmail.com)
 
