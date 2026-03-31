@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0010,50:1a0030,100:6600cc&height=160&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0010,50:1a0030,100:6600cc&height=160&section=header&text=_&fontSize=1&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2500&pause=800&color=cc99ff&center=true&vCenter=true&multiline=false&width=700&height=80&lines=Carlos+Cabello;%3CCarlos+Cabello+%2F%3E;Carlos_Cabello();%7B+Carlos+Cabello+%7D;%2F%2F+Carlos+Cabello" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2500&pause=800&color=cc99ff&center=true&vCenter=true&width=700&height=80&lines=Carlos+Cabello;%3CCarlos+Cabello+%2F%3E;Carlos_Cabello();%7B+Carlos+Cabello+%7D;%2F%2F+Carlos+Cabello" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=9933ff&center=true&vCenter=true&width=700&height=40&lines=Frontend+Developer;%3CFrontend+Developer+%2F%3E;Frontend_Developer();%7B+Frontend+Developer+%7D;%2F%2F+Frontend+Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1500&color=7a5fa0&center=true&vCenter=true&width=500&lines=_%20呪術師_%20%7C%20Frontend+Developer%20%7C%20Talca%2C+Chile+%F0%9F%87%A8%F0%9F%87%B1;Domain+Expansion+%3A%3A+Frontend+Unlimited;const+dev+%3D+new+CarlosCabello()%3B" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=4000&pause=2000&color=7a5fa0&center=true&vCenter=true&width=500&height=30&lines=_%20呪術師_%20%7C%20Talca%2C%20Chile%20%F0%9F%87%A8%F0%9F%87%B1%20%7C%20ECI+UCM" />
 
 </div>
 
@@ -78,4 +78,4 @@ const carlos = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600cc,50:1a0030,100:0a0010&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600cc,50:1a0030,100:0a0010&height=120&section=footer&animation=twinkling&text=_&fontSize=1" width="100%"/>
