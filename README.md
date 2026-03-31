@@ -43,14 +43,6 @@ const carlos = {
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CarlosCabelloTroncoso&show_icons=true&hide_border=true&bg_color=0a0010&title_color=9933ff&icon_color=cc99ff&text_color=ddbbff&ring_color=6600cc&hide=contribs" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCabelloTroncoso&layout=compact&hide_border=true&bg_color=0a0010&title_color=9933ff&text_color=ddbbff&langs_count=5" height="160"/>
-
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=CarlosCabelloTroncoso&hide_border=true&background=0a0010&ring=9933ff&fire=cc44ff&currStreakLabel=9933ff&sideLabels=ddbbff&dates=7a5fa0&stroke=6600cc&font=Fira%20Code" width="55%"/>
 </div>
 
