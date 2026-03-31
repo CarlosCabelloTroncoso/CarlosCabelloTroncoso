@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2500&pause=800&color=cc99ff&center=true&vCenter=true&width=700&height=80&lines=Carlos+Cabello;%3CCarlos+Cabello+%2F%3E;Carlos_Cabello();%7B+Carlos+Cabello+Troncoso%7D;%2F%2F+Carlos+Cabello" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2500&pause=800&color=cc99ff&center=true&vCenter=true&width=700&height=80&lines=Carlos+Cabello;%3CCarlos+Cabello+%2F%3E;Carlos_Cabello();%7B+Carlos+Cabello%7D;%2F%2F+Carlos+Cabello" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=9933ff&center=true&vCenter=true&width=700&height=40&lines=Frontend+Developer;%3CFrontend+Developer+%2F%3E;Frontend_Developer();%7B+Frontend+Developer+%7D;%2F%2F+Frontend+Developer" />
 
