@@ -12,5 +12,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCabelloTroncoso&layout=compact&theme=radical)
 
-
-
