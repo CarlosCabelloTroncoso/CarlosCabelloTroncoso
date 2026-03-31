@@ -16,17 +16,9 @@
 
 <div align="center">
 
-```ts
-// whoami
+Frontend Developer &nbsp;·&nbsp; ECI UCM &nbsp;·&nbsp; Talca, Chile 🇨🇱
 
-const carlos: Developer = {
-  role       : "Frontend Developer",
-  university : "ECI UCM",
-  location   : "Talca, Chile 🇨🇱",
-  stack      : ["Python", "JavaScript", "TypeScript", "React", "HTML", "CSS"],
-  currently  : "Building clean, intentional UI",
-};
-```
+Building clean, intentional UI — one component at a time.
 
 </div>
 
