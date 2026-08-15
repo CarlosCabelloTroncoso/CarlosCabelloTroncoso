@@ -1,6 +1,6 @@
 # ¡Hola! Soy Carlos Cabello Troncoso
 
-### Analista Programador | Estudiante de Ing. en Ejecución en Computación e Informática (UCM)
+### Analista Programador | Estudiante de Ing. Civil Informática (UCM)
 
 Soy un desarrollador de software de Chile. Al ser Analista Programador titulado y estudiante de 8vo semestre de Ingeniería, combino una sólida base técnica y práctica con conocimientos avanzados de ingeniería de software. 
 
@@ -10,6 +10,7 @@ Actualmente me enfoco en desarrollar aplicaciones web eficientes y escalables, d
 - Estudiando en la Universidad Católica del Maule (UCM).
 - Me apasiona aprender nuevas tecnologías y aplicar buenas prácticas de código.
 - Buscando siempre nuevos desafíos para crecer como desarrollador Full Stack.
+- Integro herramientas de Inteligencia Artificial para optimizar el desarrollo y la resolución de problemas.
 
 ### Mi Stack Tecnológico
 
@@ -25,6 +26,15 @@ Actualmente me enfoco en desarrollar aplicaciones web eficientes y escalables, d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+**Herramientas IA:**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### Mis Estadísticas
+
+![Estadísticas de Carlos](https://github-readme-stats.vercel.app/api?username=CarlosCabelloTroncoso&show_icons=true&theme=transparent&locale=es&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 
 ### Conectemos
 
