@@ -25,9 +25,6 @@ Actualmente me enfoco en desarrollar aplicaciones web eficientes y escalables, d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Mis Estadísticas
-
-![Estadísticas de Carlos](https://github-readme-stats.vercel.app/api?username=CarlosCabelloTroncoso&show_icons=true&theme=transparent&locale=es&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 
 ### Conectemos
 
