@@ -32,9 +32,6 @@ Actualmente me enfoco en desarrollar aplicaciones web eficientes y escalables, d
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### Mis Estadísticas
-
-![Estadísticas de Carlos](https://github-readme-stats.vercel.app/api?username=CarlosCabelloTroncoso&show_icons=true&theme=transparent&locale=es&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 
 ### Conectemos
 
