@@ -1,6 +1,6 @@
 # ¡Hola! Soy Carlos Cabello Troncoso
 
-### Analista Programador | Estudiante de Ing. Civil Informática (UCM)
+### Analista Programador | Estudiante de Ing. en Ejecución en Computación e Informática (UCM)
 
 Soy un desarrollador de software de Chile. Al ser Analista Programador titulado y estudiante de 8vo semestre de Ingeniería, combino una sólida base técnica y práctica con conocimientos avanzados de ingeniería de software. 
 
