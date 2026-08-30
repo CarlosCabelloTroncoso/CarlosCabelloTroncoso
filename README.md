@@ -43,6 +43,10 @@ Mi [portafolio](https://carloscabello.is-a.dev) está construido con:
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+### Estadísticas de GitHub
+
+![Estadísticas de Carlos](https://github-readme-stats.vercel.app/api?username=CarlosCabelloTroncoso&show_icons=true&theme=dark)
+
 ### Conectemos
 
 Si quieres hablar de tecnología, tienes alguna oportunidad laboral, o simplemente quieres conectar:
