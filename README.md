@@ -5,38 +5,38 @@
 </p>
 
 <p align="center">
-  Desarrollador de software enfocado en construir aplicaciones web, automatizaciones y soluciones que conectan software con inteligencia artificial.
+  Software developer focused on building web applications, automation systems, and solutions that connect software with artificial intelligence.
 </p>
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About me
 
-Soy desarrollador de software en **Talca, Chile**. Construyo aplicaciones de punta a punta, desde interfaces frontend hasta servicios backend, APIs y bases de datos.
+I'm a software developer based in **Talca, Chile**. I build end-to-end applications, from frontend interfaces to backend services, APIs, and databases.
 
-Me interesa especialmente la intersección entre el **desarrollo de software, la inteligencia artificial, la visión por computadora y la automatización**, trabajando con tecnologías como Python, YOLO y OpenCV en proyectos propios.
+I'm particularly interested in the intersection of **software development, artificial intelligence, computer vision, and automation**, working with technologies such as Python, YOLO, and OpenCV in personal projects.
 
-Soy **Analista Programador** y actualmente me encuentro finalizando **Ingeniería Civil Informática en la Universidad Católica del Maule**.
+I hold a degree as a **Programmer Analyst** and I'm currently completing my **Computer Science Engineering degree at Universidad Católica del Maule**.
 
-## 💼 Experiencia actual
+## 💼 Current experience
 
 ### 👁️ SPOTVISION — Data Annotator · Computer Vision
 
-Trabajo en la preparación y control de calidad de datasets utilizados en proyectos de **Computer Vision**, realizando anotaciones y validaciones orientadas al entrenamiento de modelos de inteligencia artificial.
+I work on the preparation and quality assurance of datasets used in **Computer Vision** projects, performing annotations and validations for artificial intelligence model training.
 
-- 🏆 **Top contributor** en la plataforma de anotación.
-- 📦 Más de **25.000 anotaciones** realizadas.
-- 🎯 **96,97% de precisión** en datasets de segmentación.
-- 🎯 **93,66% de precisión** en datasets YOLO.
-- 🖼️ Experiencia con **Bounding Boxes, Segmentation y anotaciones YOLO**.
-- 🔍 Validación de calidad, consistencia y precisión de datasets.
-- 🧠 Experiencia práctica en preparación de datos para modelos de visión por computadora.
+- 🏆 **Top contributor** on the annotation platform.
+- 📦 More than **25,000 annotations** completed.
+- 🎯 **96.97% accuracy** on segmentation datasets.
+- 🎯 **93.66% accuracy** on YOLO datasets.
+- 🖼️ Experience with **Bounding Boxes, Image Segmentation, and YOLO annotations**.
+- 🔍 Dataset quality, consistency, and accuracy validation.
+- 🧠 Practical experience preparing data used to train computer vision models.
 
-Esta experiencia complementa mi perfil como desarrollador, permitiéndome comprender tanto la integración de modelos de IA como el proceso de construcción y validación de los datos utilizados para entrenarlos.
+This experience complements my software development background by giving me hands-on understanding of both AI integration and the data preparation processes behind machine learning systems.
 
-## 🚀 Proyectos
+## 🚀 Projects
 
-- **[clima-app](https://github.com/CarlosCabelloTroncoso/clima-app)** — Aplicación meteorológica con visualización de datos en tiempo real y un entorno 3D reactivo a las condiciones climáticas utilizando Three.js.
+- **[clima-app](https://github.com/CarlosCabelloTroncoso/clima-app)** — Weather application with real-time data visualization and a dynamic 3D environment that reacts to current weather conditions using Three.js.
 
-- **[Portafolio](https://carloscabello.is-a.dev)** — Portafolio personal interactivo desarrollado con Vue, TypeScript, Three.js y GSAP.
+- **[Portfolio](https://carloscabello.is-a.dev)** — Interactive personal portfolio built with Vue, TypeScript, Three.js, and GSAP to showcase my projects, experience, and technical background.
 
 ## 🤖 AI & Computer Vision
 
@@ -49,9 +49,9 @@ Esta experiencia complementa mi perfil como desarrollador, permitiéndome compre
   <img src="https://img.shields.io/badge/Data_Annotation-374151?style=for-the-badge" alt="Data Annotation" />
 </p>
 
-## 🛠️ Stack técnico
+## 🛠️ Technical toolkit
 
-**Lenguajes**
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -105,19 +105,19 @@ Esta experiencia complementa mi perfil como desarrollador, permitiéndome compre
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 🎓 Educación & certificaciones
+## 🎓 Education & certifications
 
-- **Ingeniería Civil Informática** — Universidad Católica del Maule · En curso
-- **Analista Programador** — Título técnico
+- **Computer Science Engineering** — Universidad Católica del Maule · In progress
+- **Programmer Analyst** — Technical degree
 - **Claude Code in Action** — Anthropic
-- **Domina la IA con Gemini** — Santander Open Academy · Google Gemini
-- **IA y Emprendimiento** — Fundación CRATE
+- **Master AI with Gemini** — Santander Open Academy · Google Gemini
+- **AI & Entrepreneurship** — Fundación CRATE
 
-<h2 align="center">🌎 Encuéntrame en línea</h2>
+<h2 align="center">🌎 Find me online</h2>
 
 <p align="center">
   <a href="https://carloscabello.is-a.dev">
-    <img src="https://img.shields.io/badge/Portafolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/CarlosCabelloTroncoso">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
