@@ -1,67 +1,36 @@
 # hey, i'm carlos 👋
 
-software developer interested in **computer vision, applied ai and building things that solve real problems.**
+software developer from chile, interested in building useful products and exploring **artificial intelligence & computer vision**.
 
-i enjoy working somewhere between software engineering and artificial intelligence — from web applications to real-time vision systems and automation.
+currently working with web development, automation and intelligent systems.
 
-```python
-carlos = {
-    "focus": ["software development", "computer vision", "applied ai"],
-    "currently_learning": ["machine learning", "ai systems", "computer vision"],
-    "interests": ["automation", "real-time systems", "building useful software"],
-    "location": "Chile 🇨🇱"
-}
-```
+### what i do
 
-### what i'm working on
+* build web applications and software projects
+* experiment with computer vision and AI
+* automate repetitive workflows
+* learn by building real-world projects
 
-* 👁️ building **VigIA**, a real-time computer vision surveillance system using YOLO, OpenCV and RTSP cameras
-* 🏷️ developing tools to automate and improve **data annotation workflows**
-* 🧠 experimenting with **object detection, segmentation and computer vision pipelines**
-* 🌐 building web applications and interactive experiences
-* ⚙️ always looking for ways to automate repetitive problems with software
+### stack
 
-### a little more about my work
+`Python` `TypeScript` `JavaScript` `React` `Vue` `SQL` `Git`
 
-i work with real-world computer vision datasets, focusing on annotation quality and consistency.
+### currently exploring
 
-* **25k+** annotations completed
-* **96.97%** accuracy on segmentation datasets
-* **93.66%** accuracy on YOLO datasets
-* experience with bounding boxes, segmentation, dataset QA and annotation workflows
+`Computer Vision` · `YOLO` · `OpenCV` · `Machine Learning`
 
-### tools i like working with
+### projects
 
-`Python` · `TypeScript` · `JavaScript` · `React` · `Vue` · `YOLO` · `OpenCV` · `Selenium` · `Git` · `SQL`
+**VigIA** — intelligent video monitoring with real-time object detection
 
-### selected projects
+**Automated Labeling** — computer vision assisted data annotation
 
-**VigIA**
-real-time intelligent video surveillance system capable of processing RTSP camera streams and detecting objects using computer vision.
+**Portfolio** — interactive developer portfolio
 
-`Python` `YOLO` `OpenCV` `RTSP`
+### elsewhere
 
-**Automated Data Labeling**
-computer vision assisted annotation pipeline designed to detect people, validate detections and automate bounding-box labeling workflows.
-
-`Python` `YOLO` `OpenCV` `Selenium`
-
-**Developer Portfolio**
-interactive personal portfolio focused on software development projects and visual experiences.
-
-`TypeScript` `Vue` `Three.js` `WebGL`
-
-### github
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
-</p>
-
-### find me
-
-[portfolio](https://portfolio-2026-livid-delta.vercel.app/) · [linkedin](YOUR_LINKEDIN_URL)
+[portfolio](https://portfolio-2026-livid-delta.vercel.app/) · [linkedin](YOUR_LINKEDIN)
 
 ---
 
-*build things. break things. understand why. build them better.*
+always building something.
