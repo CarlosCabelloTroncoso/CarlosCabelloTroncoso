@@ -125,7 +125,7 @@ This experience complements my software development background by giving me hand
   <a href="https://www.linkedin.com/in/carlos-cabello-troncoso-a94119276/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:carlos.cabello@alumnos.ucm.cl">
+  <a href="mailto:ignaciocarlos016@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
