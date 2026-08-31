@@ -1,12 +1,10 @@
 <div align="center">
 
-<h1>¡Hola! Soy Carlos Cabello Troncoso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Carlos%20Cabello%20Troncoso&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Chile&descAlignY=55&descSize=18" />
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2361DAFB&size=25&center=true&vCenter=true&width=650&height=50&lines=Analista+Programador+%7C+Estudiante+Ing.+Civil+Inform%C3%A1tica;Full+Stack+Developer+en+Chile+%F0%9F%87%A8%F0%9F%87%B1;Integrando+IA+en+el+desarrollo+de+software"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2361DAFB&size=22&center=true&vCenter=true&width=650&height=45&lines=Analista+Programador+%7C+Estudiante+Ing.+Civil+Inform%C3%A1tica;Integrando+IA+en+el+desarrollo+de+software;Construyendo+experiencias+web+con+profundidad+3D"></a>
 
 </div>
-
-<br>
 
 <p align="center">
   <a href="https://carloscabello.is-a.dev"><img src="https://skillicons.dev/icons?i=vercel" alt="Portafolio" height="50"/></a>
@@ -68,6 +66,18 @@ Mi [portafolio](https://carloscabello.is-a.dev) está construido con:
 
 <br>
 
+## Calendario 3D de contribuciones
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/CarlosCabelloTroncoso/CarlosCabelloTroncoso/main/metrics.isocalendar.svg" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/CarlosCabelloTroncoso/CarlosCabelloTroncoso/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br>
+
 ## GitHub Stats
 
 <div align="center">
@@ -79,6 +89,10 @@ Mi [portafolio](https://carloscabello.is-a.dev) está construido con:
   <img src="https://github-readme-streak-stats.demolab.com/?user=CarlosCabelloTroncoso&theme=tokyonight&hide_border=true"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlosCabelloTroncoso&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+</div>
+
 <br>
 
 <div align="center">
@@ -86,5 +100,7 @@ Mi [portafolio](https://carloscabello.is-a.dev) está construido con:
 Si quieres hablar de tecnología, tienes alguna oportunidad laboral, o simplemente quieres conectar, escríbeme.
 
 <sub>Gracias por pasar por aquí 🚀</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
 </div>
