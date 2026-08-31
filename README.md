@@ -8,17 +8,17 @@
   Desarrollador de software enfocado en construir aplicaciones web, automatizaciones y soluciones que conectan software con inteligencia artificial.
 </p>
 
----
+<hr>
 
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador de software en **Talca, Chile**. Trabajo en aplicaciones de punta a punta, desde interfaces frontend hasta servicios backend y bases de datos.
+Soy desarrollador de software en **Talca, Chile**. Construyo aplicaciones de punta a punta, desde interfaces frontend hasta servicios backend, APIs y bases de datos.
 
-Me interesa especialmente la intersección entre el **desarrollo de software, la inteligencia artificial, la visión por computadora y la automatización**, explorando tecnologías como Python, YOLO y OpenCV en proyectos propios.
+Me interesa especialmente la intersección entre el **desarrollo de software, la inteligencia artificial, la visión por computadora y la automatización**, trabajando con tecnologías como Python, YOLO y OpenCV en proyectos propios.
 
 Soy **Analista Programador** y actualmente me encuentro finalizando **Ingeniería Civil Informática en la Universidad Católica del Maule**.
 
----
+<hr>
 
 ## 💼 Experiencia actual
 
@@ -32,11 +32,11 @@ Trabajo en la preparación y control de calidad de datasets utilizados en proyec
 * 🎯 **93,66% de precisión** en datasets YOLO.
 * 🖼️ Experiencia con **Bounding Boxes, Segmentation y anotaciones YOLO**.
 * 🔍 Validación de calidad, consistencia y precisión de datasets.
-* 🧠 Experiencia práctica comprendiendo cómo los datos son preparados para modelos de visión por computadora.
+* 🧠 Experiencia práctica en preparación de datos utilizados para entrenamiento de modelos de visión por computadora.
 
-Esta experiencia complementa mi perfil como desarrollador, permitiéndome entender no solo cómo integrar modelos de IA en software, sino también cómo se construyen y validan los datos utilizados para entrenarlos.
+Esta experiencia complementa mi perfil como desarrollador, permitiéndome comprender tanto la integración de modelos de IA como el proceso de construcción y validación de los datos utilizados para entrenarlos.
 
----
+<hr>
 
 ## 🚀 Proyectos
 
@@ -46,32 +46,26 @@ Aplicación meteorológica con una experiencia visual interactiva y un entorno 3
 
 **Tecnologías:** JavaScript · Three.js · APIs · Frontend
 
----
-
 ### 🌐 [Portafolio](https://carloscabello.is-a.dev)
 
 Portafolio personal interactivo desarrollado para presentar mis proyectos, experiencia y habilidades mediante una interfaz moderna con elementos 3D y animaciones.
 
 **Tecnologías:** Vue.js · TypeScript · Three.js · GSAP
 
----
+<hr>
 
 ## 🤖 AI & Computer Vision
 
-Además del desarrollo web, trabajo y experimento con tecnologías relacionadas con visión por computadora y automatización.
+<p>
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Computer_Vision-111827?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Object_Detection-2563EB?style=for-the-badge" alt="Object Detection" />
+  <img src="https://img.shields.io/badge/Image_Segmentation-7C3AED?style=for-the-badge" alt="Image Segmentation" />
+  <img src="https://img.shields.io/badge/Data_Annotation-374151?style=for-the-badge" alt="Data Annotation" />
+</p>
 
-* Python
-* YOLO / Ultralytics
-* OpenCV
-* Object Detection
-* Bounding Boxes
-* Image Segmentation
-* Data Annotation
-* Dataset Quality Assurance
-* Procesamiento de video en tiempo real
-* Automatización
-
----
+<hr>
 
 ## 🛠️ Stack técnico
 
@@ -81,6 +75,9 @@ Además del desarrollo web, trabajo y experimento con tecnologías relacionadas 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
 
 ### Frontend
@@ -92,24 +89,44 @@ Además del desarrollo web, trabajo y experimento con tecnologías relacionadas 
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
 </p>
 
-### Backend & Bases de datos
+### Backend & Data
 
 <p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" alt="NATS" />
 </p>
 
-### Computer Vision & Herramientas
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS IAM" />
+  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="Amazon ECS" />
+  <img src="https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Fargate" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+### Tools & Version Control
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
+<hr>
 
 ## 🎓 Educación & certificaciones
 
@@ -119,15 +136,7 @@ Además del desarrollo web, trabajo y experimento con tecnologías relacionadas 
 * **Domina la IA con Gemini** — Santander Open Academy · Google Gemini
 * **IA y Emprendimiento** — Fundación CRATE
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosCabelloTroncoso&show_icons=true&hide_title=true&hide_border=true&count_private=true" height="165" />
-</p>
-
----
+<hr>
 
 <h2 align="center">🌎 Encuéntrame en línea</h2>
 
