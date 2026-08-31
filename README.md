@@ -1,42 +1,25 @@
 # hey, i'm carlos 👋
 
-software developer focused on **web applications and applied ai** — from frontend interfaces to backend systems and database design.
+software developer from chile, interested in building useful, well-crafted web products.
 
-i'm a titled analista programador and currently finishing a degree in ingeniería civil informática at ucm, chile.
+titled analista programador, finishing a degree in ingeniería civil informática at ucm.
 
-```python
-carlos = {
-    "role": "software developer",
-    "focus": ["web development", "full stack", "applied ai"],
-    "currently_learning": ["django", "system design"],
-    "location": "chile 🇨🇱"
-}
-```
+### what i do
 
-### what i'm working on
+* build web applications, frontend to backend
+* design and query relational databases
+* integrate ai tools into everyday development
+* learn by building real-world projects
 
-* 🌐 building responsive web applications with react, vue and angular
-* 🛠️ developing backend services and apis with python and django
-* 🗄️ designing and querying relational databases (mysql, postgresql)
-* 🤖 integrating ai tools into everyday development workflows
+### stack
 
-### tools i work with
+`Python` `TypeScript` `JavaScript` `React` `Vue` `Angular` `Django` `Node.js` `MySQL` `PostgreSQL` `Git`
 
-`Python` · `TypeScript` · `JavaScript` · `React` · `Vue` · `Angular` · `Django` · `Node.js` · `MySQL` · `PostgreSQL` · `Git`
+### projects
 
-### selected projects
+**[clima-app](https://github.com/CarlosCabelloTroncoso/clima-app)** — weather app with a reactive 3d background built with three.js and real-time data visualization
 
-**clima-app**
-weather app with a reactive 3d background built with three.js, interactive charts and real-time data visualization.
-[repo](https://github.com/CarlosCabelloTroncoso/clima-app)
-
-`Vue.js` `Three.js` `TypeScript` `Vite`
-
-**developer portfolio**
-personal portfolio focused on software development projects and visual experiences.
-[live](https://carloscabello.is-a.dev)
-
-`TypeScript` `Vue` `Three.js` `GSAP`
+**[portfolio](https://carloscabello.is-a.dev)** — interactive developer portfolio built with vue, three.js and gsap
 
 ### github
 
@@ -45,6 +28,10 @@ personal portfolio focused on software development projects and visual experienc
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCabelloTroncoso&layout=compact&hide_border=true" />
 </p>
 
-### find me
+### elsewhere
 
 [portfolio](https://carloscabello.is-a.dev) · [linkedin](https://www.linkedin.com/in/carlos-cabello-troncoso-a94119276/) · [email](mailto:carlos.cabello@alumnos.ucm.cl)
+
+---
+
+always building something.
