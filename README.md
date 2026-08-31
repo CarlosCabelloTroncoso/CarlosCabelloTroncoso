@@ -1,67 +1,50 @@
 # hey, i'm carlos 👋
 
-software developer interested in **computer vision, applied ai and building things that solve real problems.**
+software developer focused on **web applications and applied ai** — from frontend interfaces to backend systems and database design.
 
-i enjoy working somewhere between software engineering and artificial intelligence — from web applications to real-time vision systems and automation.
+i'm a titled analista programador and currently finishing a degree in ingeniería civil informática at ucm, chile.
 
 ```python
 carlos = {
-    "focus": ["software development", "computer vision", "applied ai"],
-    "currently_learning": ["machine learning", "ai systems", "computer vision"],
-    "interests": ["automation", "real-time systems", "building useful software"],
-    "location": "Chile 🇨🇱"
+    "role": "software developer",
+    "focus": ["web development", "full stack", "applied ai"],
+    "currently_learning": ["django", "system design"],
+    "location": "chile 🇨🇱"
 }
 ```
 
 ### what i'm working on
 
-* 👁️ building **VigIA**, a real-time computer vision surveillance system using YOLO, OpenCV and RTSP cameras
-* 🏷️ developing tools to automate and improve **data annotation workflows**
-* 🧠 experimenting with **object detection, segmentation and computer vision pipelines**
-* 🌐 building web applications and interactive experiences
-* ⚙️ always looking for ways to automate repetitive problems with software
+* 🌐 building responsive web applications with react, vue and angular
+* 🛠️ developing backend services and apis with python and django
+* 🗄️ designing and querying relational databases (mysql, postgresql)
+* 🤖 integrating ai tools into everyday development workflows
 
-### a little more about my work
+### tools i work with
 
-i work with real-world computer vision datasets, focusing on annotation quality and consistency.
-
-* **25k+** annotations completed
-* **96.97%** accuracy on segmentation datasets
-* **93.66%** accuracy on YOLO datasets
-* experience with bounding boxes, segmentation, dataset QA and annotation workflows
-
-### tools i like working with
-
-`Python` · `TypeScript` · `JavaScript` · `React` · `Vue` · `YOLO` · `OpenCV` · `Selenium` · `Git` · `SQL`
+`Python` · `TypeScript` · `JavaScript` · `React` · `Vue` · `Angular` · `Django` · `Node.js` · `MySQL` · `PostgreSQL` · `Git`
 
 ### selected projects
 
-**VigIA**
-real-time intelligent video surveillance system capable of processing RTSP camera streams and detecting objects using computer vision.
+**clima-app**
+weather app with a reactive 3d background built with three.js, interactive charts and real-time data visualization.
+[repo](https://github.com/CarlosCabelloTroncoso/clima-app)
 
-`Python` `YOLO` `OpenCV` `RTSP`
+`Vue.js` `Three.js` `TypeScript` `Vite`
 
-**Automated Data Labeling**
-computer vision assisted annotation pipeline designed to detect people, validate detections and automate bounding-box labeling workflows.
+**developer portfolio**
+personal portfolio focused on software development projects and visual experiences.
+[live](https://carloscabello.is-a.dev)
 
-`Python` `YOLO` `OpenCV` `Selenium`
-
-**Developer Portfolio**
-interactive personal portfolio focused on software development projects and visual experiences.
-
-`TypeScript` `Vue` `Three.js` `WebGL`
+`TypeScript` `Vue` `Three.js` `GSAP`
 
 ### github
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarlosCabelloTroncoso&show_icons=true&hide_title=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCabelloTroncoso&layout=compact&hide_border=true" />
 </p>
 
 ### find me
 
-[portfolio](https://portfolio-2026-livid-delta.vercel.app/) · [linkedin](YOUR_LINKEDIN_URL)
-
----
-
-*build things. break things. understand why. build them better.*
+[portfolio](https://carloscabello.is-a.dev) · [linkedin](https://www.linkedin.com/in/carlos-cabello-troncoso-a94119276/) · [email](mailto:carlos.cabello@alumnos.ucm.cl)
